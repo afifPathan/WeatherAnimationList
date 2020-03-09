@@ -1,18 +1,21 @@
-# weatheranimationapp
+# weatheranimationapp  
 
-A new Flutter application.
+A new Flutter Animation List.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Material Animation of Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# weatheranimationapp
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+| Demo |
+|-------------------------------|
+| <img src="https://github.com/afifPathan/WeatherAnimationList/blob/master/weather_app.webm" height="400" alt="Screenshot"/> |
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# WeatherAnimationList
-# WeatherAnimationList
+## Questions?
+ 
+ **Ping-Me on :**  
+ [![Instagram](https://img.shields.io/badge/Instagram-AFIF__PATHAN-orange)](https://instagram.com/mr._.pathan?igshid=kovfu06vj177)
+[![Facebook](https://img.shields.io/badge/Facbook-AFIF__PATHAN-brightgreen)](https://www.facebook.com/profile.php?id=100010152436933)
+[![Twitter](https://img.shields.io/badge/Twitter-AFIF____PATHAN-blue)](https://twitter.com/_aFiF_Pathan?s=09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AFIF__PATHAN-brightgreen)](https://www.linkedin.com/in/afif-pathan)
