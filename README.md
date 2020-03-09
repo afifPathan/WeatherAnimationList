@@ -10,7 +10,7 @@ This project is a starting point for a Material Animation of Flutter application
 
 | Demo |
 |-------------------------------|
-| <img src="https://github.com/afifPathan/WeatherAnimationList/blob/master/weather_app.webm" height="400" alt="Screenshot"/> |
+| <img src="https://github.com/afifPathan/WeatherAnimationList/blob/master/weather-app.gif" height="400" alt="Screenshot"/> |
 
 ## Questions?
  
